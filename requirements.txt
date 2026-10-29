@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+supabase>=2.0.0
+=======
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+supabase>=2.0.0
+>>>>>>> dea03bc10687127041c1c0b7373c1253cf20a9de
+matplotlib>=3.7.0
